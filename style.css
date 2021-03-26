@@ -1,0 +1,27 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background {
+    background: url('../images/background.jpg') no-repeat center top;
+    background-size: cover;
+    color:beige;
+}
+
+img {
+    border-radius: 50%;
+    margin: auto;
+    border: 5px solid white;
+    width: 200px;
+    height: 200px;
+}
+
+#photo{
+    text-align: center;
+    padding: 150px 0 140px;
+}
+
+#name{
+    text-align: center;
+    padding: 10px 0 15px;
+}
